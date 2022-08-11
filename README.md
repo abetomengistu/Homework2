@@ -31,7 +31,7 @@ You will need to use **pandas** to manage data, **matplotlib** and **seaborn** t
 Use a method of curve fitting discussed in class to predict a possum's total length based on its head length. Make sure to visualize the data.
 
 1. How well does the method describe the data?
-3.   If you perform regression for male and female possums separately, does this increase our accuracy?
+2.   If you perform regression for male and female possums separately, does this increase our accuracy?
 
   
 
